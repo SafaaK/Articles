@@ -14,7 +14,7 @@ protocol ArticlesManagerDelegate {
 }
 
 struct ArticlesManager {
-    let headlinesURL = "https://newsapi.org/v2/top-headlines?"
+    let headlinesURL = "https://newsapi.org/v2/top-headlines?language=en"
     
     var delegate: ArticlesManagerDelegate?
     
