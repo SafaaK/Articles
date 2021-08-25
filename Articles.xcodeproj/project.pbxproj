@@ -81,7 +81,7 @@
 		CC3E311D26CFC45B007BE1D2 /* SourcesManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourcesManager.swift; sourceTree = "<group>"; };
 		CC88C06426D1DB9600E470B2 /* ArticleCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleCell.swift; sourceTree = "<group>"; };
 		CC88C06626D1E12100E470B2 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
-		CC88C06A26D208EE00E470B2 /* SourceCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SourceCell.swift; path = /Users/safaakhalaf/Desktop/InfoSys/Articles/Articles/View/SourceCell.swift; sourceTree = "<absolute>"; };
+		CC88C06A26D208EE00E470B2 /* SourceCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SourceCell.swift; path = /Users/developer/Desktop/Articles/Articles/View/SourceCell.swift; sourceTree = "<absolute>"; };
 		CC88C06C26D210D400E470B2 /* ArticleDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleDetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
